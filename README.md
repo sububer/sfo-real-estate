@@ -25,7 +25,7 @@ Two datasets were primary in creating the dataframes to anlyze this space:
 - Neighborhoods will also be analyzed grouping by neighborhood, and aggregating by data across all the years to get a snapshot of pricing across the neighborhoods visually.
 
 
-#### Summary
+## Summary
 
 **Housing Supply:**  
 The San Francisco area supply of housing units increased at a steady rate of approximately 2K units per year. Starting at `372560` in 2010, to `384242` in 2016. This is a total increase of `11,682` units, which is only a `3.1%` increase in supply over the 6-yr period.  
