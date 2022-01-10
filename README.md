@@ -1,6 +1,5 @@
-# sfo-real-estate
-San Francisco Real Estate Analysis For Rental Opportunities
-FinTech Challenge 6
+# San Francisco Real Estate Analysis, 2010-2016
+San Francisco Real Estate Analysis Looking For Rental Opportunities  
 
 ---
 
