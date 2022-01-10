@@ -50,7 +50,7 @@ In general, the neighborhoods with the lower/lowest sale price per sq ft, and th
 
 In 2016, the avg gross rent is `$4390` across all neighborhoods. The charts below show the 15 lowest and highest sale price per sq foot in 2016. The neighborhoods which have the lowest sales price per sq foot should offer the widest margin between sale price, and avg gross rent, and be most likely to profit, even if the final rental price ends up a little lower than the avg of I would advise looking for opportunities in these neighborhoods.  
 
-Here is a screen cap showing the decline in sale price for **Anza Vista** along with a chart of the 15 Neighborhoods with the lowest sale price as potential neighborhoods of interest in 2016.  
+Below are screen caps showing the decline in sale prices for the **Anza Vista** and **Outer Mission** neighborhoods, along with a chart of the 15 Neighborhoods with the lowest sale prices relative to avg rental. These may be potential neighborhoods of interest.  
 
 ![Anza Vista Price Drop](./Resources/anza_vista_price_drop.png)
 ![Outer Mission Price Drop](./Resources/outer_mission_price_drop.png)
