@@ -44,6 +44,8 @@ Across all neighborhoods, on average, the percent increase in rental prices is c
 
 Looking at specific neighborhoods over the time period shows that some neighborhoods sale_price decreased over the time period, while the rentals kept increased. One standout is **Anza Vista**, where the avg sale price dropped to `$88.402`, while the rental price kept increasing and was at `$4390` in 2016. This neighborhood may be an opportunity to pay less and rent for more.  Similarly, **Outer Mission** sale price decreased to `$40.77` in 2016. Another potential opportunity.  
 
+**Oportunity Potential**  
+
 In general, the neighborhoods with the lower/lowest sale price per sq ft, and the highest rents, look like potential opportunites to turn a purchase into a rental income, and I would advise looking into what purchases may be available there.  
 
 In 2016, the avg gross rent is `$4390` across all neighborhoods. The charts below show the 15 lowest and highest sale price per sq foot in 2016. The neighborhoods which have the lowest sales price per sq foot should offer the widest margin between sale price, and avg gross rent, and be most likely to profit, even if the final rental price ends up a little lower than the avg of I would advise looking for opportunities in these neighborhoods.  
